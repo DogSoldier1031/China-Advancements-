@@ -22,3 +22,6 @@ https://en.m.wikipedia.org/wiki/High-speed_rail_in_China
 “As a result of its recent 14th Five-Year Plan, China is expected to account for almost half of new global renewable power capacity additions over the 2022-2027 period.”
 
 https://www.iea.org/news/renewable-power-s-growth-is-being-turbocharged-as-countries-seek-to-strengthen-energy-security
+
+Solar now ‘cheaper than grid electricity’ in every Chinese city, study finds
+https://www.carbonbrief.org/solar-now-cheaper-than-grid-electricity-in-every-chinese-city-study-finds/
