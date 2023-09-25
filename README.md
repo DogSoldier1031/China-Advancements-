@@ -25,3 +25,16 @@ https://www.iea.org/news/renewable-power-s-growth-is-being-turbocharged-as-count
 
 Solar now ‘cheaper than grid electricity’ in every Chinese city, study finds
 https://www.carbonbrief.org/solar-now-cheaper-than-grid-electricity-in-every-chinese-city-study-finds/
+
+“China's growth in life expectancy at birth from 35–40 years in 1949 to 65.5 years in 1980 is among the most rapid sustained increases in documented global history (Banister and Preston 1981; Ashton et al. 1984; Coale1984; Jamison 1984; Banister 1987; Ravallion 1997; Banister and Hill 2004). These survival gains appear to have been largest during the 1950s, with a sharp reversal during the 1959-61 Great Leap Famine that was then followed by substantial progress again during the early 1960s (see Figure 1). A more moderately-paced mortality decline continued through the later 1960s and 1970s throughout the large-scale social and economic disruptions of the Cultural Revolution (Banister and Hill 2004). Altogether, between 1963 (the first on-trend year after the Great Leap Famine) and 1980, the average annual gain in life expectancy was nearly one year of life, rising from 50 to 65.5 (World Bank 2009).”
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331212/
+
+“Life expectancy in China 1850-2020
+Published by
+Aaron O'Neill
+, Jun 21, 2022
+Life expectancy in China was just 32 in the year 1850, and over the course of the next 170 years, it is expected to more than double to 76.6 years in 2020. Between 1850 and 1950, finding reliable data proved difficult for anthropologists, however some events, such as the Taiping Rebellion and Dungan Revolt in the nineteenth century did reduce life expectancy by a few years, and also the Chinese Civil War and Second World War in the first half of the twentieth century. In the second half of the 1900s, Chinese life expectancy increased greatly, as the country became more industrialized and the standard of living increased”
+
+https://www.statista.com/statistics/1041350/life-expectancy-china-all-time/#:~:text=Life%20expectancy%20in%20China%20was,to%2076.6%20years%20in%202020.
+
