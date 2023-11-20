@@ -38,3 +38,9 @@ Life expectancy in China was just 32 in the year 1850, and over the course of th
 
 https://www.statista.com/statistics/1041350/life-expectancy-china-all-time/#:~:text=Life%20expectancy%20in%20China%20was,to%2076.6%20years%20in%202020.
 
+"The share and number of people living in extreme poverty" (China & Nordic Countries)
+
+https://ourworldindata.org/grapher/the-share-and-number-of-people-living-in-extreme-poverty?time=2014..latest&country=CHN~NOR~SWE~ISL~DNK
+
+
+
