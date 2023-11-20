@@ -42,5 +42,9 @@ https://www.statista.com/statistics/1041350/life-expectancy-china-all-time/#:~:t
 
 https://ourworldindata.org/grapher/the-share-and-number-of-people-living-in-extreme-poverty?time=2014..latest&country=CHN~NOR~SWE~ISL~DNK
 
+"The share and number of people living in extreme poverty" (China & the U.S.)
+
+https://ourworldindata.org/grapher/the-share-and-number-of-people-living-in-extreme-poverty?time=2014..latest&country=CHN~USA
+
 
 
