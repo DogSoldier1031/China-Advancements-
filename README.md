@@ -46,5 +46,9 @@ https://ourworldindata.org/grapher/the-share-and-number-of-people-living-in-extr
 
 https://ourworldindata.org/grapher/the-share-and-number-of-people-living-in-extreme-poverty?time=2014..latest&country=CHN~USA
 
+The Flailing Trade War
+
+https://www.tomshardware.com/tech-industry/semiconductors/china-poised-to-break-5nm-barrier-huawei-lists-5nm-processor-presumably-built-with-smic-tech-defying-us-sanctions
+
 
 
